@@ -1,7 +1,6 @@
 # My Professional Portfolio
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Portfolio-blue?style=for-the-badge)](https://portfolio-gnzt6r6u8-tranquilsoul9s-projects.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-brightgreen?style=for-the-badge)](https://github.com/tranquilsoul9/Portfolio) > **Welcome to my professional portfolio! This is where I showcase my skills, projects, and passion for creating impactful web experiences.**
+> **Welcome to my professional portfolio! This is where I showcase my skills, projects, and passion for creating impactful web experiences.**
 
 ---
 
@@ -61,7 +60,8 @@ To get a local copy up and running, follow these simple steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/tranquilsoul9/Portfolio.git](https://github.com/tranquilsoul9/Portfolio.git) ```
+    git clone [https://github.com/tranquilsoul9/Portfolio.git](https://github.com/tranquilsoul9/Portfolio.git)
+    ```
 2.  **Navigate into the project directory:**
     ```bash
     cd Portfolio
@@ -96,7 +96,6 @@ I'm always open to new opportunities and collaborations!
 
 * **LinkedIn:** [https://www.linkedin.com/in/dimplebhondekar-146b81256/]
 * **Email:** [dimplebhon910@gmail.com]
-* **Website:** [Your Personal Website URL, if different from this portfolio]
 * **GitHub:** [https://github.com/tranquilsoul9](https://github.com/tranquilsoul9)
 
 ---
@@ -115,4 +114,4 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ---
 
-**Made with ❤️ by Dimple Bhondekar **
+**Made with ❤️ by Dimple Bhondekar**
