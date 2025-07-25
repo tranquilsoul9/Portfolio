@@ -53,19 +53,6 @@ Here are some of the projects featured in this portfolio:
     * **Technologies:** List key technologies used (e.g., React, Node.js, MongoDB).
     * **Live Demo:** [Link to live demo if separate from portfolio]
     * **GitHub Repo:** [Link to project's GitHub repository]
-
-* **[Project Name 2]**
-    * **Description:** Explain the problem it solves or the feature it implements.
-    * **Technologies:** (e.g., HTML, CSS, JavaScript, API Integration).
-    * **Live Demo:** [Link to live demo]
-    * **GitHub Repo:** [Link to project's GitHub repository]
-
-* **[Project Name 3]**
-    * **Description:** Highlight your role and key contributions.
-    * **Technologies:** (e.g., Vue.js, Firebase).
-    * **Live Demo:** [Link to live demo]
-    * **GitHub Repo:** [Link to project's GitHub repository]
-
 *(Add as many project sections as you need, following the above format.)*
 
 ## ⚙️ How to Run Locally
@@ -107,8 +94,8 @@ This portfolio is deployed and hosted on **Vercel**, providing continuous integr
 
 I'm always open to new opportunities and collaborations!
 
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Email:** [Your Email Address]
+* **LinkedIn:** [https://www.linkedin.com/in/dimplebhondekar-146b81256/]
+* **Email:** [dimplebhon910@gmail.com]
 * **Website:** [Your Personal Website URL, if different from this portfolio]
 * **GitHub:** [https://github.com/tranquilsoul9](https://github.com/tranquilsoul9)
 
@@ -128,4 +115,4 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ---
 
-**Made with ❤️ by Dimple Bhondekar & Shreya Singh**
+**Made with ❤️ by Dimple Bhondekar **
