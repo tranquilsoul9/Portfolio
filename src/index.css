@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Outfit:wght@100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for body and scrollbar to match the reference */
+body {
+    font-family: 'Inter', sans-serif; /* Default font for the body */
+    background-color: #0d1117; /* Dark background inspired by reference */
+    color: #e2e8f0; /* Light text color for readability */
+    margin: 0; /* Explicitly remove default body margin */
+    padding: 0; /* Explicitly remove default body padding */
+}
+
+/* Custom scrollbar for a cleaner look */
+::-webkit-scrollbar {
+    width: 8px; /* Width of the scrollbar */
+}
+::-webkit-scrollbar-track {
+    background: #1a202c; /* Darker track color */
+    border-radius: 10px; /* Rounded corners for the track */
+}
+::-webkit-scrollbar-thumb {
+    background: #4a5568; /* Medium gray thumb color */
+    border-radius: 10px; /* Rounded corners for the thumb */
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #64748b; /* Lighter gray on hover for interactivity */
+}
+
+/* Keyframe animations for hero section elements (retained for consistency) */
+@keyframes fadeInDown {
+    from { opacity: 0; transform: translateY(-20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+@keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+@keyframes blob {
+    0% { transform: translate(0px, 0px) scale(1); }
+    33% { transform: translate(30px, -50px) scale(1.1); }
+    66% { transform: translate(-20px, 20px) scale(0.9); }
+    100% { transform: translate(0px, 0px) scale(1); }
+}
+
+.animate-fade-in-down {
+    animation: fadeInDown 1s ease-out forwards;
+}
+.animate-fade-in-up {
+    animation: fadeInUp 1s ease-out forwards;
+}
+.animate-blob {
+    animation: blob 7s infinite cubic-bezier(0.6, 0.01, 0.3, 0.9);
+}
+.animation-delay-2000 { animation-delay: 2s; }
+.animation-delay-4000 { animation-delay: 4s; }
+
+/* Active class for navigation links */
+.active {
+    color: #c084fc; /* Custom purple color for active state */
+}
+
+/* Root font family definition */
+:root {
+    font-family: "Inter", sans-serif;
+}
