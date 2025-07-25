@@ -214,20 +214,5 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 
 
-## 🙌 Acknowledgements
-
-
-
-* [Mention any specific libraries, templates, or resources you used and want to acknowledge.]
-
-* [e.g., Icon sets from Font Awesome]
-
-* [e.g., Inspiration from a tutorial or design resource]
-
-
-
----
-
-
 
 **Made with ❤️ by Dimple Bhondekar **
